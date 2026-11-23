@@ -1,0 +1,11 @@
+Metric,Value
+Raw rows,7084.0
+Exact duplicate rows,61.0
+Clean unique transactions,7000.0
+Total sales,76731189.27
+Total profit,25127882.66
+Profit margin,0.32747938483763844
+Average sales per transaction,10961.598467142856
+Income outlier threshold (99.5th percentile),184811.65
+Sales-profit correlation,0.965055048074127
+Discount-profit correlation,-0.12014940744541863

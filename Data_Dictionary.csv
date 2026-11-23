@@ -1,0 +1,25 @@
+Column,Data_Type,Description
+Transaction_ID,object,Unique transaction identifier
+Customer_ID,object,Customer identifier; can appear across multiple transactions
+Order_Date,object,Date the order was placed
+Delivery_Date,object,Date the order was delivered
+Age,float64,Customer age in years
+Gender,object,Standardised customer gender
+Income,float64,Annual customer income; extreme values flagged for analysis
+Region,object,Standardised sales region
+State,object,State associated with transaction
+City,object,City associated with transaction
+Customer_Segment,object,Customer segment
+Product_Category,object,Product category
+Product,object,Product purchased
+Quantity,int64,Units purchased
+Unit_Price,float64,Price per unit
+Discount,float64,Discount proportion (valid range 0 to 0.5)
+Sales,float64,Transaction sales value
+Cost,float64,Transaction cost
+Profit,float64,Transaction profit
+Payment_Method,object,Payment method
+Delivery_Mode,object,Delivery mode
+Customer_Rating,float64,Customer rating on a 1–5 scale
+Satisfaction_Level,object,Customer satisfaction category
+Returned,object,Whether the transaction was returned
