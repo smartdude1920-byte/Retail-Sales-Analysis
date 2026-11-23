@@ -39,6 +39,13 @@ Run Dashboard:
 streamlit run Dashboard_v2.py
 
 ## Author
-Hariom Maurya
+Project Contributor Details
+
+Name: Aashi Soni
+Admission No.: 26M01410123
+Email: aashi.26m01410123@abes.ac.in
+College: ABES Engineering College
+Course: MCA 1st Semester
+Domain: Data Analyst
 
 MCA Student
